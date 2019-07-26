@@ -38,11 +38,11 @@ The Carpentries Lab is for:
 ## What makes a lesson a good candidate for The Carpentries Lab?
 
 * We welcome contributions across the full "digital skills" spectrum.
-* The lesson can be taught in 1.5, 3, or 6 hours.
-* They use The Carpentries [lesson template][lesson-template].
-* They follow best-practices in pedagogy.
-* They cover open-source tools.
-* They conform to our [Code of Conduct][coc].
+* Your lesson can be taught in 1.5, 3, or 6 hours.
+* It follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
+* It uses The Carpentries [lesson template][lesson-template].
+* It teaches open-source tools.
+* It conforms to our [Code of Conduct][coc].
 
 ## What is the process for submitting a lesson to The Carpentries Lab?
 
@@ -58,6 +58,7 @@ The Carpentries Lab is for:
 
 _This process is inspired by the software review from rOpenSci_ 
 
+[cdh]: https://cdh.carpentries.org/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
 [issues]: https://github.com/carpentrieslab/proposals/issues
