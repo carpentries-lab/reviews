@@ -1,4 +1,4 @@
-# The Carpentries Lab Lesson Proposals
+# The Carpentries Lab
 
 Thank you for your interest in The Carpentries Lab! This repository is used to track the lessons that are aimed to be reviewed by our 
 community. Our reviews are open, and their goal is to ensure that the lessons follow best practices in pedagogy and the general teaching 
