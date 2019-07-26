@@ -48,9 +48,7 @@ The Carpentries Lab is for:
 
 **If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to [The Carpentries Incubator][carpentries-incubator].** 
 
-* Read through [The Curriculum Development Handbook](https://cdh.carpentries.org)
-* Write your lesson (you are welcome to ask our community for feedback on first drafts/outlines)
-* Open an issue in this repository to request a review
+* Once you have been invited to submit your materials, open an [Issue][issues] in this repository to request a review
 * The editor will assess the submission for fit and overall quality, and assign
   reviewers.
 * The reviewers will use The Carpentries checklists and guidelines to provide
@@ -62,5 +60,6 @@ _This process is inspired by the software review from rOpenSci_
 
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
+[issues]: https://github.com/carpentrieslab/proposals/issues
 [jose]: https://jose.theoj.org/
 [lesson-template]: https://github.com/carpentries/styles
