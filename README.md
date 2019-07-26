@@ -35,7 +35,7 @@ The Carpentries Lab is for:
   website.
 * You will have the opportunity to submit your lesson to [The Journal of Open Source Education (JOSE)][jose].
 
-## What makes a lesson a good candidate for The Carpentries Lab
+## What makes a lesson a good candidate for The Carpentries Lab?
 
 * We welcome contributions across the full "digital skills" spectrum.
 * The lesson can be taught in 1.5, 3, or 6 hours.
