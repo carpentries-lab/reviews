@@ -1,7 +1,7 @@
 ---
 name: use incubator for now
 about: Ask people to submit their proposal to the incubator for now
-title: ''
+title: 'Please submit your proposal to the Carpentries Incubator'
 labels: transfer-to-incubator
 assignees: ''
 
