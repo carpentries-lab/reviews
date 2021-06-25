@@ -68,7 +68,7 @@ _This process is inspired by the software review from [rOpenSci][ropensci]_
 ### Editors
 
 - [Dr Toby Hodges][toby], [The Carpentries][carpentries]
-- [Dr Michael Culshaw-Maurer], [The Carpentries][carpentries]/[CyVerse][cyverse]
+- [Dr Michael Culshaw-Maurer][michael], [The Carpentries][carpentries]/[CyVerse][cyverse]
 
 ### Reviewers
 
@@ -89,6 +89,8 @@ We are very grateful to the following individuals for reviewing lessons:
 [lab-gh-org]: https://github.com/carpentrieslab/
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
+[michael]: https://github.com/MCMaurer
 [new-issue]: https://github.com/carpentrieslab/proposals/issues/new
 [reviewer-guide]: FIXME
 [ropensci]: https://ropensci.org/
+[toby]: https://github.com/tobyhodges
