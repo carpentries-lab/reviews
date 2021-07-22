@@ -35,9 +35,7 @@ In particular, we encourage you to make some general comments about
 - its utility as a resource both for an Instructor teaching the lesson at a workshop
   and for a self-directed learner following the lesson alone.
 
-The scope of your review is limited to the contents of the lesson website,
-though you may find it helpful or necessary to refer to the source (R)Markdown files
-to address some points in the Reviewer Checklist.
+The scope of your review is limited to the contents of the lesson website.
 If the authors have included a `paper.md` file in the lesson repository,
 with the intention of submitting the lesson for publication in [JOSE][jose]
 after acceptance to The Carpentries Lab,
