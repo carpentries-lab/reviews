@@ -3,7 +3,6 @@ name: Review submission
 about: Submit an existing lesson for review and acceptance to The Carpentries Lab
 title: '[REV]: '
 labels: new-submission
-assignees: ["tobyhodges", "MCMaurer"]
 ---
 
 Thank you for your interest in submitting your lesson for review in The Carpentries Lab!
