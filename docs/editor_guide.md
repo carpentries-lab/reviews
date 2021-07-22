@@ -56,7 +56,8 @@ Issue labels should be used by Editors to track the progress of each review.
 There should be only one of these labels on each review issue:
 when the Editor adds a new label,
 they should remove the label for the preceding stage of the review process.
-(These issue labels are re-used from the ROpenSci software package review)
+(These issue labels are taken from the set
+[used by ROpenSci in their software package review system][ropensci-editor-guide].)
 
 - `1/editor-checks`:
   the Editor is working through initial checks on the lesson,
@@ -75,3 +76,5 @@ they should remove the label for the preceding stage of the review process.
 - `6/approved`:
   all Reviewer comments have been addressed satisfactorily
   and the lesson is approved for inclusion in The Carpentries Lab.
+
+  [ropensci-editor-guide]: https://devguide.ropensci.org/editorguide.html
