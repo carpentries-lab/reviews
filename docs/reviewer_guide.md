@@ -91,6 +91,7 @@ and [Writing Alt Text for Data Visualization][alt-text-data]
     - [ ] does not use dismissive language.
 - [ ] Tools used in the lesson are open source or, where tools used are closed source/proprietary, there is a good reason for this e.g. no open source alternatives are available or widely-used in the lesson domain.
 - [ ] Any example data sets used in the lesson are accessible, well-described, available under a CC0 license, and representative of data typically encountered in the domain.
+- [ ] The lesson does not make use of superfluous data sets, e.g. increasing cognitive load for learners by introducing a new data set instead of reusing another that is already present in the lesson.
 - [ ] The example tasks and narrative of the lesson are appropriate and realistic.
 - [ ] The solutions to all exercises are accurate and sufficiently explained.
 - [ ] The lesson includes exercises in a variety of formats.
