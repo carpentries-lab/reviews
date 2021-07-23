@@ -30,7 +30,7 @@ please submit a proposal to [The Carpentries Incubator][carpentries-incubator].
   community.
 * The Carpentries will publicize your lessons through The Carpentries Lab
   website.
-* We hope soon to be able to offer the option of journal publication for accepted lessons.
+* You will have the opportunity to submit your lesson to [The Journal of Open Source Education (JOSE)][jose].
 
 ## What makes a lesson a good candidate for The Carpentries Lab?
 
@@ -86,6 +86,7 @@ We are very grateful to the following individuals for reviewing lessons:
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cyverse]: https://www.cyverse.org/
 [editor-guide]: FIXME
+[jose]: https://jose.theoj.org/
 [lab-gh-org]: https://github.com/carpentrieslab/
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
