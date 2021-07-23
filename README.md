@@ -85,13 +85,13 @@ We are very grateful to the following individuals for reviewing lessons:
 [cdh]: https://cdh.carpentries.org/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cyverse]: https://www.cyverse.org/
-[editor-guide]: FIXME
+[editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md
 [jose]: https://jose.theoj.org/
-[lab-gh-org]: https://github.com/carpentrieslab/
+[lab-gh-org]: https://github.com/carpentries-lab/
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
 [michael]: https://github.com/MCMaurer
-[new-issue]: https://github.com/carpentrieslab/proposals/issues/new
-[reviewer-guide]: FIXME
+[new-issue]: https://github.com/carpentries-lab/reviews/issues/new
+[reviewer-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md
 [ropensci]: https://ropensci.org/
 [toby]: https://github.com/tobyhodges
