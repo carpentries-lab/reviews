@@ -43,12 +43,14 @@ when the author first
 
 
 8. Check the boxes to confirm that the lesson
+
     - [ ] aligns with [The Carpentries Code of Conduct][1].
     - [ ] is published under a [CC-BY][2] or [CC0][3] license.
     - [ ] uses [The Carpentries lesson template][4] without significant customisation/adaptation.
 
 9. If you wish to submit the lesson for publication in
     [the Journal of Open Source Education (JOSE)][5]:
+
     - [ ] check the box to confirm that your repository includes
         `paper.md` and `paper.bib` files as described in
         [the JOSE submission guide for learning  modules][6].
