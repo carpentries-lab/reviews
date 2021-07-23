@@ -20,7 +20,7 @@ This repository is the place where lessons can be submitted and reviewed for inc
 
 If you want to begin creating a new lesson, or transfer
 an existing lesson to a place where other members of The Carpentries
-community can contribute to its further development,
+community can contribute to further its development,
 please submit a proposal to [The Carpentries Incubator][carpentries-incubator].
 
 ## Why should you submit your lesson to The Carpentries Lab?
@@ -56,7 +56,7 @@ A lesson is particularly well-suited to The Carpentries Lab if:
 
 **We are currently piloting our lesson review process, and are commiting only to review lessons by invitation. If you have not been invited to submit your lesson to The Carpentries Lab, you may still open an issue to request a review but should expect some delay in the processing of your submission.**
 
-*  To request a review, [open an issue in this repository][new-issue] and respond to the prompts in the _Review submission_  issue template
+* To request a review, [open an issue in this repository][new-issue] and respond to the prompts in the _Review submission_  issue template
 * The editor will [assess the submission for fit and overall quality][editor-guide], and assign reviewers.
 * The reviewers will use [The Carpentries checklists and guidelines][reviewer-guide] to provide feedback on the lesson.
 * Once accepted, the lesson will be transfered to [The Carpentries Lab GitHub organization][lab-gh-org], updated to use The Carpentries Lab theme, and be listed on The Carpentries Lab website.
