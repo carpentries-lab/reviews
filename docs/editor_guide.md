@@ -29,10 +29,10 @@
 ### Repository
 
 The lesson repository includes:
-    - [ ] a CC-BY or CC0 license.
-    - [ ] a CODE_OF_CONDUCT.md file that links to The Carpentries Code of Conduct.
-    - [ ] a list of lesson maintainers.
-    - [ ] tabs to display Issues and Pull Requests for the project.
+  - [ ] a CC-BY or CC0 license.
+  - [ ] a CODE_OF_CONDUCT.md file that links to The Carpentries Code of Conduct.
+  - [ ] a list of lesson maintainers.
+  - [ ] tabs to display Issues and Pull Requests for the project.
 
 ### Structure
 
@@ -42,9 +42,10 @@ The lesson repository includes:
 ### Supporting information
 
 The lesson includes:
-    - [ ] a list of required prior skills and/or knowledge.
-    - [ ] setup and installation instructions.
-    - [ ] a glossary of key terms or links out to definitions in an external glossary e.g. [Glosario][glosario].
+
+  - [ ] a list of required prior skills and/or knowledge.
+  - [ ] setup and installation instructions.
+  - [ ] a glossary of key terms or links out to definitions in an external glossary e.g. [Glosario][glosario].
 
 [glosario]: https://carpentries.github.io/glosario/
 [wave]: https://wave.webaim.org/
