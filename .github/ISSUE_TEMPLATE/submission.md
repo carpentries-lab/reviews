@@ -42,7 +42,7 @@ or submit the issue and check off the boxes afterwards.
 
 
 7. If the lesson is similar in topic to any other lesson
-    already included in CarpentriesLab and/or
+    already included in The Carpentries Lab and/or
     The Carpentries Lesson Programs (Software, Library, and Data Carpentry),
     briefly describe how this lesson differs and
     why a separate lesson was developed.
