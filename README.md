@@ -16,7 +16,7 @@ There is also a need from learners who have participated in our workshops to exp
 
 The goal of The Carpentries Lab is to be **a repository of high-quality, community-reviewed, discoverable lessons**. People already familiar with The Carpentries teaching practice can pick them up and teach them in meetups, in class, or in complement of a "standard" Carpentries 2-day workshop. The lessons can also be used by independent learners, outside of workshops.
 
-This repository is the place to where lessons can be submitted and reviewed for inclusion in The Carpentries Lab.
+This repository is the place where lessons can be submitted and reviewed for inclusion in The Carpentries Lab.
 
 If you want to begin creating a new lesson, or transfer
 an existing lesson to a place where other members of The Carpentries
