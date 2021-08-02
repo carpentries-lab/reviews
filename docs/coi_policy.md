@@ -15,7 +15,7 @@ In the case where none of the associate editors can serve as editor, an external
 
 ## Carpentries Community Collaborations
 
-Members of The Carpentries community may find themselves in varying levels of collaboration with other community members, constituting varying degrees of conflict of interest. In the interest of keeping larger pools of potential reviewers and not discouraging participation in multiple aspects of the community, we have outlined a non-exhaustive list of some disqualifying and non-disqualifying conflicts:
+Members of The Carpentries community may find themselves in varying levels of collaboration with other community members, constituting varying degrees of conflict of interest. In the interest of keeping larger pools of potential reviewers and not discouraging participation in multiple aspects of the community, we have outlined a **non-exhaustive** list of some disqualifying and non-disqualifying conflicts:
 
 ### Disqualifying Carpentries Community COIs
 
