@@ -35,11 +35,9 @@ In particular, we encourage you to make some general comments about
 - its utility as a resource both for an Instructor teaching the lesson at a workshop
   and for a self-directed learner following the lesson alone.
 
-The scope of your review is limited to the contents of the lesson website.
-If the authors have included a `paper.md` file in the lesson repository,
-with the intention of submitting the lesson for publication in [JOSE][jose]
-after acceptance to The Carpentries Lab,
-you do not need to review the contents of this file.
+The scope of your review is limited to the contents of the lesson website:
+you do not need to review other files in the lesson repository that do not
+form part of the lesson site itself.
 If you are concerned about any of the content of the lesson repository,
 but which is not also represented in the lesson website,
 please contact the Editor who invited you to review the lesson.
@@ -114,5 +112,4 @@ and [Writing Alt Text for Data Visualization][alt-text-data]
 [code-of-conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [deque-alt-text]: https://www.deque.com/blog/great-alt-text-introduction/
 [glosario]: https://carpentries.github.io/glosario/
-[jose]: https://jose.theoj.org/
 [wave]: https://wave.webaim.org/

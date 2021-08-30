@@ -28,9 +28,10 @@ please submit a proposal to [The Carpentries Incubator][carpentries-incubator].
 * As a lesson author, you value the feedback from reviewers, and you are
   interested in receiving feedback and contributions from members of the
   community.
+* You will receive a badge and banner for your lesson, indicating that
+  it is undergoing/has passed the peer review process.
 * The Carpentries will publicize your lessons through The Carpentries Lab
   website.
-* You will have the opportunity to submit your lesson to [The Journal of Open Source Education (JOSE)][jose].
 
 ## What makes a lesson a good candidate for The Carpentries Lab?
 
@@ -86,7 +87,6 @@ We are very grateful to the following individuals for reviewing lessons:
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cyverse]: https://www.cyverse.org/
 [editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md
-[jose]: https://jose.theoj.org/
 [lab-gh-org]: https://github.com/carpentries-lab/
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
