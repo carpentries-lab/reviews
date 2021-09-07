@@ -79,3 +79,19 @@ they should remove the label for the preceding stage of the review process.
   and the lesson is approved for inclusion in The Carpentries Lab.
 
   [ropensci-editor-guide]: https://devguide.ropensci.org/editorguide.html
+
+## Workflow
+
+### Initial submission
+
+Once the editor confirmed that the lesson was suitable to be sent out to review,
+these steps need to be taken:
+1. add review badge to the README for the repository using the code below and replacing `<issue number>` with the issue associated with the submission:
+   ```
+   [![The Carpentries Lab Review Status](http://badges.carpentries-lab.org/<issue number>_status.svg)](https://github.com/carpentries-lab/reviews/issues/<issue number>)
+   ```
+2. set the GitHub topics, if they haven't been set yet. Topics should include at least `lesson` and the appropriate life-cycle badge.
+
+### After acceptance
+
+1. TBD
