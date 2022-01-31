@@ -93,6 +93,8 @@ _This process is inspired by the software review from [rOpenSci][ropensci]_
 When submitting their lesson for review in The Carpentries Lab,
 authors will have the option to also submit to the review process for
 learning modules in [The Journal of Open Source Education][jose].
+The JOSE review will take place after the lesson has been accepted to
+The Carpentries Lab and will focus on another aspect of the lesson repository.
 
 Where review in The Carpentries Lab focuses on the pedagogical soundness of
 the lesson site and its content,
