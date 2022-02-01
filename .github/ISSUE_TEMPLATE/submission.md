@@ -58,14 +58,16 @@ or submit the issue and check off the boxes afterwards.
 
 9. If you wish to submit the lesson for publication in
    [the Journal of Open Source Education (JOSE)][5]:
+   ([see the repository README for more details][6]):
 
     - [ ] check the box to confirm that your repository includes
          `paper.md` and `paper.bib` files as described in
-         [the JOSE submission guide for learning  modules][6].
+         [the JOSE submission guide for learning  modules][7].
 
 [1]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [2]: https://creativecommons.org/licenses/by/4.0/
 [3]: https://creativecommons.org/publicdomain/zero/1.0/
 [4]: https://github.com/carpentries/styles/
 [5]: https://jose.theoj.org/
-[6]: https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission
+[6]: https://github.com/carpentries-lab/reviews#joint-review-with-jose
+[7]: https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission
