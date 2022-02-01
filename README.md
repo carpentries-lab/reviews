@@ -91,7 +91,7 @@ We are very grateful to the following individuals for reviewing lessons:
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
 [michael]: https://github.com/MCMaurer
-[new-issue]: https://github.com/carpentries-lab/reviews/issues/new
+[new-issue]: https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+
 [reviewer-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md
 [ropensci]: https://ropensci.org/
 [toby]: https://github.com/tobyhodges
