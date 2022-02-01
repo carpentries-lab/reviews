@@ -94,4 +94,12 @@ these steps need to be taken:
 
 ### After acceptance
 
-1. TBD
+1. If the author(s) have indicated that they would like to submit the lesson to JOSE,
+  assist them with getting started on that process and ensure that the JOSE editors
+  are aware that the lesson has already been accepted to The Carpentries Lab.
+2. update `life_cycle` banner config
+3. remove the `5/awaiting-reviewer(s)-response` label and add the `6/approved`
+  label to the relevant issue in `carpentries-lab/reviews`
+4. Work with The Carpentries Infrastructure Team to set up cloud hosting for the lesson,
+  to provide a `carpentries-lab.org` URL
+5. Publish a new release via Zenodo
