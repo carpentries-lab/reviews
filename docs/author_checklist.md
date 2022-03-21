@@ -50,6 +50,7 @@ when the author first
     - [ ] is published under a [CC-BY][2] or [CC0][3] license.
     - [ ] uses [The Carpentries lesson template][4] without significant customisation/adaptation.
 
+
 9. If you wish to submit the lesson for publication in
    [the Journal of Open Source Education (JOSE)][5]
    ([see the repository README for more details][6]):
@@ -58,6 +59,15 @@ when the author first
          `paper.md` and `paper.bib` files as described in
          [the JOSE submission guide for learning  modules][7].
 
+
+ 10. Would you like to recommend anyone we could contact as a reviewer for your lesson?
+     We prefer to invite other members of The Carpentries community to review lessons but
+     you are free to suggest anyone you think could be an appropriate author.
+     **Please do not tag them in the issue (with "@" + username)** -
+     the Editor will tag potential reviewers after editorial checks have been completed.**
+     **Please read our [Conflict of Interest Policy][8] before suggesting reviewers.**
+
+
 [1]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [2]: https://creativecommons.org/licenses/by/4.0/
 [3]: https://creativecommons.org/publicdomain/zero/1.0/
@@ -65,5 +75,6 @@ when the author first
 [5]: https://jose.theoj.org/
 [6]: https://github.com/carpentries-lab/reviews#joint-review-with-jose
 [7]: https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission
+[8]: https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md
 
 [new-submission]: https://github.com/carpentrieslab/reviews/issues/new?assignees=&labels=&template=submission.md
