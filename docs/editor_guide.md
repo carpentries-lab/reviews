@@ -1,5 +1,7 @@
 # Editor Guide
 
+You can use the [Editor checklist template](./templates/editor_checks_template.md) as a basis for responses on the review thread.
+
 ## Editor Checklist
 
 ### Accessibility

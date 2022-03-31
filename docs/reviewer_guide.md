@@ -62,6 +62,8 @@ these conversations within the thread.
 
 ## Reviewer Checklist
 
+[This checklist is available as a template for you to use when preparing your review to post to the issue thread](./templates/review_template.md).
+
 ### Accessibility
 - [ ] The alternative text of all figures is accurate and sufficiently detailed *.
   - Large and/or complex figures may not be described completely in the alt text of the image and instead be described elsewhere in the main body of the episode.
