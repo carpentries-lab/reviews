@@ -116,6 +116,11 @@ If you would like to support the project by reviewing
 open source educational material submitted to the journal,
 please [volunteer as a reviewer][jose-volunteer].
 
+## Example Lab Submissions
+
+Our [Example Lab Submissions][example-submissions] document shows a few examples of how to submit single lessons, multiple lessons, or whole curricula.
+If you are unsure of where your submission fits into one of the example categories, feel free to reach out to an Editor.
+
 ## Team
 
 ### Editors
@@ -139,6 +144,7 @@ We are very grateful to the following individuals for reviewing lessons:
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cyverse]: https://www.cyverse.org/
 [editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md
+[example-submissions]: https://github.com/carpentries-lab/reviews/tree/main/docs
 [jose]: https://jose.theoj.org/
 [jose-about]: https://jose.theoj.org/about
 [jose-review-criteria]: https://openjournals.readthedocs.io/en/jose/review_criteria.html#specific-requirements-for-learning-modules
