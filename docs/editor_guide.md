@@ -99,9 +99,18 @@ these steps need to be taken:
 1. If the author(s) have indicated that they would like to submit the lesson to JOSE,
   assist them with getting started on that process and ensure that the JOSE editors
   are aware that the lesson has already been accepted to The Carpentries Lab.
-2. update `life_cycle` banner config
-3. remove the `5/awaiting-reviewer(s)-response` label and add the `6/approved`
+2. Update `life_cycle` banner config
+3. Remove the `5/awaiting-reviewer(s)-response` label and add the `6/approved`
   label to the relevant issue in `carpentries-lab/reviews`
-4. Work with The Carpentries Infrastructure Team to set up cloud hosting for the lesson,
+4. If the lesson repository includes a `master` branch, rename it to `main`
+5. Work with The Carpentries Infrastructure Team to set up cloud hosting for the lesson,
   to provide a `carpentries-lab.org` URL
-5. Publish a new release via Zenodo
+6. Publish a new release via Zenodo
+
+For a collection/curriculum composed of multiple lessons:
+
+1. Ensure that the lesson repositories are named consistently, 
+   to signal their relationship more clearly 
+   and so that they appear together in any alphabetical listing of repositories in the Lab.
+
+
