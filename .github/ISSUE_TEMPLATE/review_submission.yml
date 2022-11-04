@@ -65,4 +65,18 @@ body:
       description: If the lesson is similar in topic to any other lesson already included in The Carpentries Lab and/or The Carpentries Lesson Programs (Software, Library, and Data Carpentry), briefly describe how this lesson differs and why a separate lesson was developed.
     validations:
       required: false
-  
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation of Lesson Requirements
+      description: Check the boxes to confirm that the lesson
+      options:
+        - label: is the original work of the author(s), or that any content derived from another source is reused with permission and appropriate attribution
+          required: true
+        - label: aligns with [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+          required: true
+        - label: is published under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
+          required: true
+        - label: uses [The Carpentries lesson template](https://github.com/carpentries/styles/) or [Carpentries Workbench template](https://github.com/carpentries/styles/) without significant customisation/adaptation.
+          required: true
+   
