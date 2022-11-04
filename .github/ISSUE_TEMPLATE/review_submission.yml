@@ -1,0 +1,45 @@
+name: Lab Review Submission
+description: Submit a Carpentries Incubator lesson for Carpentries Lab peer review
+title: "[Review]: "
+labels: ["review"]
+assignees:
+  - tobyhodges
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in submitting your lesson for review in The Carpentries Lab! |
+        Please respond to the prompts below to complete your submission.
+  - type: input
+    id: title
+    attributes:
+      label: Lesson Title
+      description: What is the title of the lesson?
+      placeholder: ex. Introduction to R and RStudio
+    validations:
+      required: true
+  - type: input
+    id: repo-url
+    attributes:
+      label: Lesson Repository URL
+      description: What is the URL for the lesson repository?
+      placeholder: ex. https://github.com/carpentries-incubator/intro-to-r-rstudio
+    validations:
+      required: true
+  - type: input
+    id: website-url
+    attributes:
+      label: Lesson Website URL
+      description: What is the URL for the lesson website?
+      placeholder: ex. https://carpentries-incubator.github.io/intro-to-r-rstudio/
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Lesson Description
+      description: Briefly describe the lesson (50 words or fewer). What does it aim to teach and to whom?
+      placeholder: Tell us what you see!
+      #value: "A bug happened!"
+    validations:
+      required: true
