@@ -87,14 +87,4 @@ body:
        options:
          - label: the lesson repository includes `paper.md` and `paper.bib` files as described in [the JOSE submission guide for learning modules](https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission)
            required: false
-   - type: textarea
-     id: reviewers
-     attributes:
-       label: Potential Reviewers
-       description: Would you like to recommend anyone we could contact as a reviewer for your lesson? \
-       We prefer to invite other members of The Carpentries community to review lessons but \
-       you are free to suggest anyone you think could be an appropriate author. \
-       The Editor will tag potential reviewers after editorial checks have been completed. \
-       Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers.
-     validations:
-       required: false
+   
