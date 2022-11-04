@@ -47,7 +47,7 @@ body:
     attributes:
       label: Author Usernames
       description: If you are submitting this lesson on behalf of multiple authors, list the GitHub usernames for all authors who should receive notifications relating to the review.
-      placeholder: ex. @MCMaurer, @tobyhodges
+      placeholder: ex. @MCMaurer @tobyhodges
     validations:
       required: false
   - type: input
