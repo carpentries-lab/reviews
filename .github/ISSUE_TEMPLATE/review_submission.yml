@@ -91,6 +91,7 @@ body:
     id: reviewers
     attributes:
       label: Potential Reviewers
-      description: Would you like to recommend anyone we could contact as a reviewer for your lesson? We prefer to invite other members of The Carpentries community to review lessons but you are free to suggest anyone you think could be an appropriate author. The Editor will tag potential reviewers after editorial checks have been completed. Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers.
+      description: Would you like to recommend anyone we could contact as a reviewer for your lesson? We prefer to invite other members of The Carpentries community to review lessons but you are free to suggest anyone you think could be an appropriate author. The Editor will tag potential reviewers after editorial checks have been completed. Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers. Please **DO NOT** tag reviewers using an @ symbol, rather list their plain GitHub handles or their name and contact information.
+      placeholder: MCMaurer, Toby Hodges (tobyhodges@carpentries.org)
     validations:
       required: false
