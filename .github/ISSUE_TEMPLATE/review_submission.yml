@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for your interest in submitting your lesson for review in The Carpentries Lab! |
+        Thank you for your interest in submitting your lesson for review in The Carpentries Lab!
         Please respond to the prompts below to complete your submission.
   - type: input
     id: title
@@ -39,7 +39,62 @@ body:
     attributes:
       label: Lesson Description
       description: Briefly describe the lesson (50 words or fewer). What does it aim to teach and to whom?
-      placeholder: Tell us what you see!
-      #value: "A bug happened!"
+      placeholder: ex. This lesson introduces R and RStudio, and is intended for a novice audience with zero R experience.
     validations:
       required: true
+  - type: textarea
+    id: authors
+    attributes:
+      label: Author Usernames
+      description: If you are submitting this lesson on behalf of multiple authors, list the GitHub usernames for all authors who should receive notifications relating to the review.
+      placeholder: ex. @MCMaurer, @tobyhodges
+    validations:
+      required: false
+  - type: input
+    id: doi
+    attributes:
+      label: Zenodo DOI
+      description: If you have obtained a DOI for the lesson via Zenodo, please enter it here.
+      placeholder: ex. 00.0000/zenodo.0000000
+    validations:
+      required: false
+  - type: textarea
+    id: similarity
+    attributes:
+      label: Differences From Existing Lessons
+      description: If the lesson is similar in topic to any other lesson already included in The Carpentries Lab and/or The Carpentries Lesson Programs (Software, Library, and Data Carpentry), briefly describe how this lesson differs and why a separate lesson was developed.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation of Lesson Requirements
+      description: Check the boxes to confirm that the lesson:
+      options:
+        - label: is the original work of the author(s), or that any content derived from another source is reused with permission and appropriate attribution
+          required: true
+        - label: aligns with [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+          required: true
+        - label: is published under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
+          required: true
+        - label: uses [The Carpentries lesson template](https://github.com/carpentries/styles/) or [Carpentries Workbench template](https://github.com/carpentries/styles/) without significant customisation/adaptation.
+          required: true
+   - type: checkboxes
+    id: jose
+    attributes:
+      label: JOSE Submission Requirements
+      description: If you wish to submit the lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/) ([read here for more details](https://github.com/carpentries-lab/reviews#joint-review-with-jose)):
+      options:
+        - label: the lesson repository includes `paper.md` and `paper.bib` files as described in [the JOSE submission guide for learning modules](https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission)
+          required: false
+   - type: textarea
+    id: reviewers
+    attributes:
+      label: Potential Reviewers
+      description: Would you like to recommend anyone we could contact as a reviewer for your lesson? \
+      We prefer to invite other members of The Carpentries community to review lessons but \
+      you are free to suggest anyone you think could be an appropriate author. \
+      The Editor will tag potential reviewers after editorial checks have been completed. \
+      Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers.
+    validations:
+      required: false
