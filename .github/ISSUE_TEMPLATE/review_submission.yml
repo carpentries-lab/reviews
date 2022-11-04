@@ -69,7 +69,7 @@ body:
     id: terms
     attributes:
       label: Confirmation of Lesson Requirements
-      description: Check the boxes to confirm that the lesson:
+      description: Check the boxes to confirm that the lesson
       options:
         - label: is the original work of the author(s), or that any content derived from another source is reused with permission and appropriate attribution
           required: true
