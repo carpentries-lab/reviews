@@ -50,4 +50,19 @@ body:
       placeholder: ex. @MCMaurer, @tobyhodges
     validations:
       required: false
+  - type: input
+    id: doi
+    attributes:
+      label: Zenodo DOI
+      description: If you have obtained a DOI for the lesson via Zenodo, please enter it here.
+      placeholder: ex. 00.0000/zenodo.0000000
+    validations:
+      required: false
+  - type: textarea
+    id: similarity
+    attributes:
+      label: Differences From Existing Lessons
+      description: If the lesson is similar in topic to any other lesson already included in The Carpentries Lab and/or The Carpentries Lesson Programs (Software, Library, and Data Carpentry), briefly describe how this lesson differs and why a separate lesson was developed.
+    validations:
+      required: false
   
