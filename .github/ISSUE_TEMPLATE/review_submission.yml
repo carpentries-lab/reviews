@@ -38,7 +38,9 @@ body:
     id: description
     attributes:
       label: Lesson Description
-      description: Briefly describe the lesson (50 words or fewer). What does it aim to teach and to whom?
+      description: |
+        Briefly describe the lesson (50 words or fewer). 
+        What does it aim to teach and to whom?
       placeholder: ex. This lesson introduces R and RStudio, and is intended for a novice audience with zero R experience.
     validations:
       required: true
@@ -83,7 +85,12 @@ body:
     id: jose
     attributes:
       label: JOSE Submission Requirements
-      description: If you wish to submit the lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/) ([read here for more details](https://github.com/carpentries-lab/reviews#joint-review-with-jose))
+      description: |
+        You may submit also submit your lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/).
+        
+        You can read more about the [joint review process here](https://github.com/carpentries-lab/reviews#joint-review-with-jose).
+        
+        If you wish to submit the lesson for publication in JOSE, confirm that:
       options:
         - label: the lesson repository includes `paper.md` and `paper.bib` files as described in [the JOSE submission guide for learning modules](https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission)
           required: false
@@ -91,7 +98,12 @@ body:
     id: reviewers
     attributes:
       label: Potential Reviewers
-      description: Would you like to recommend anyone we could contact as a reviewer for your lesson? We prefer to invite other members of The Carpentries community to review lessons but you are free to suggest anyone you think could be an appropriate author. The Editor will tag potential reviewers after editorial checks have been completed. Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers. Please **DO NOT** tag reviewers using an @ symbol, rather list their plain GitHub handles or their name and contact information.
+      description: |
+        Would you like to recommend anyone we could contact as a reviewer for your lesson? 
+        
+        We prefer to invite other members of The Carpentries community to review lessons but you are free to suggest anyone you think could be an appropriate author. The Editor will tag potential reviewers after editorial checks have been completed. Please read our [Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md) before suggesting reviewers. 
+        
+        Please **DO NOT** tag reviewers using an @ symbol, rather list their plain GitHub handles or their name and contact information.
       placeholder: MCMaurer, Toby Hodges (tobyhodges@carpentries.org)
     validations:
       required: false
