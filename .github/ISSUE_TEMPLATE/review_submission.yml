@@ -86,9 +86,9 @@ body:
     attributes:
       label: JOSE Submission Requirements
       description: |
-        'You may submit also submit your lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/).
+        You may submit also submit your lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/).
         You can read more about the [joint review process here](https://github.com/carpentries-lab/reviews#joint-review-with-jose).
-        If you wish to submit the lesson for publication in JOSE, confirm that:'
+        If you wish to submit the lesson for publication in JOSE, confirm the following statement.
       options:
         - label: the lesson repository includes `paper.md` and `paper.bib` files as described in [the JOSE submission guide for learning modules](https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission)
           required: false
