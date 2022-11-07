@@ -79,7 +79,7 @@ body:
           required: true
         - label: is published under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
           required: true
-        - label: uses [The Carpentries lesson template](https://github.com/carpentries/styles/) or [Carpentries Workbench template](https://carpentries.github.io/sandpaper-docs/) without significant customisation/adaptation.
+        - label: uses [The Carpentries lesson template](https://github.com/carpentries/styles/) or [Carpentries Workbench](https://carpentries.github.io/workbench/) without significant customisation/adaptation.
           required: true
   - type: checkboxes
     id: jose
