@@ -71,7 +71,7 @@ body:
     id: terms
     attributes:
       label: Confirmation of Lesson Requirements
-      description: Check the boxes to confirm that the lesson:
+      description: 'Check the boxes to confirm that the lesson:'
       options:
         - label: is the original work of the author(s), or that any content derived from another source is reused with permission and appropriate attribution
           required: true
@@ -86,9 +86,9 @@ body:
     attributes:
       label: JOSE Submission Requirements
       description: |
-        You may submit also submit your lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/).
+        'You may submit also submit your lesson for publication in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/).
         You can read more about the [joint review process here](https://github.com/carpentries-lab/reviews#joint-review-with-jose).
-        If you wish to submit the lesson for publication in JOSE, confirm that:
+        If you wish to submit the lesson for publication in JOSE, confirm that:'
       options:
         - label: the lesson repository includes `paper.md` and `paper.bib` files as described in [the JOSE submission guide for learning modules](https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission)
           required: false
