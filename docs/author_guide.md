@@ -106,5 +106,6 @@ has more datails about the joint review process.
 
 
 [jose-submission]: https://jose.theoj.org/papers/new
+[jose-submission-guide]: https://openjournals.readthedocs.io/en/jose/submitting.html
 [metagenomics-overview]: https://carpentries-lab.github.io/metagenomics-workshop/
 [new-submission]: https://github.com/carpentrieslab/reviews/issues/new?assignees=&labels=&template=submission.md
