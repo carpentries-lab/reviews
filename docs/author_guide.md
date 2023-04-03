@@ -1,5 +1,6 @@
-# Checklist for Submitting Authors
+# Author Guide
 
+## Checklist for Submitting Authors
 The checklist below will be presented from a template
 when the author first
 [opens an issue on this repository to submit their lesson for review][new-submission].
@@ -67,7 +68,6 @@ when the author first
      the Editor will tag potential reviewers after editorial checks have been completed.**
      **Please read our [Conflict of Interest Policy][8] before suggesting reviewers.**
 
-
 [1]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [2]: https://creativecommons.org/licenses/by/4.0/
 [3]: https://creativecommons.org/publicdomain/zero/1.0/
@@ -77,4 +77,34 @@ when the author first
 [7]: https://openjournals.readthedocs.io/en/jose/submitting.html#how-to-prepare-a-learning-module-submission
 [8]: https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md
 
+## JOSE Submission
+
+When submitting their lesson(s) to The Carpentries Lab, 
+authors may indicate that they wish to also the lesson(s) for publication in JOSE
+(see question 9 in the checklist above).
+If they choose this option, the authors should submit their lesson(s) to JOSE
+_after it/they have been accepted to The Carpentries Lab_.
+
+Authors should prepare a `paper.md` file and associated `paper.bib` in the lesson repository,
+as described in [JOSE's documentation for new submissions][jose-submission-guide].
+For multiple lessons forming a single curriculum,
+we recommend that the `paper.md` and `paper.bib` files be added to the repository of a
+"workshop overview" lesson site 
+(see [the Metagenomics curriculum][metagenomics-overview] in the Lab as an example).
+
+We recommend that authors do not finalise the article to be published about their lesson(s) 
+until after review has been completed in The Carpentries Lab.
+When the paper is ready, it should be [submitted to JOSE as normal][jose-submission]
+as a _learning module_.
+The JOSE submission form includes a text field for a message to the editors:
+authors should use this field to indicate that the lesson(s) being submitted have been
+reviewed already in The Carpentries Lab.
+If you are doing this, please make sure that you include a link to the review thread for your lesson(s)!
+
+[The _Joint Submission with JOSE_ section of the repository README][6]
+has more datails about the joint review process.
+
+
+[jose-submission]: https://jose.theoj.org/papers/new
+[metagenomics-overview]: https://carpentries-lab.github.io/metagenomics-workshop/
 [new-submission]: https://github.com/carpentrieslab/reviews/issues/new?assignees=&labels=&template=submission.md
