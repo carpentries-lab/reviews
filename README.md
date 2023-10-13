@@ -132,9 +132,10 @@ If you are unsure of where your submission fits into one of the example categori
 
 We are very grateful to the following individuals for reviewing lessons:
 
+- [Lex Nederbragt](https://github.com/lexnederbragt)
 - [Paula Nieto Garcia](https://github.com/PaulaNietoG)
 - [Fotis Psomopoulos](https://github.com/fpsom)
-
+- [Heidi Seibold](https://github.com/HeidiSeibold)
 
 
 
