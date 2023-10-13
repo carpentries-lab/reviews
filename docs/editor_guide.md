@@ -85,7 +85,6 @@ they should remove the label for the preceding stage of the review process.
 ## Workflow
 
 ### Initial submission
-
 Once the editor confirmed that the lesson was suitable to be sent out to review,
 these steps need to be taken:
 1. add review badge to the README for the repository using the code below and replacing `<issue number>` with the issue associated with the submission:
@@ -94,8 +93,68 @@ these steps need to be taken:
    ```
 2. set the GitHub topics, if they haven't been set yet. Topics should include at least `lesson` and the appropriate life-cycle badge.
 
-### After acceptance
+### Performing editorial checks
+Using the checklist above, perform the basic editorial checks to ensure that the
+lesson is ready for review.
+Share the results of the checklist with the authors in the thread,
+highlighting any points that need to be addressed before the lesson can be reviewed.
 
+When the editorial checks have been satisfied,
+you can begin looking for reviewers.
+
+### Finding reviewers
+Each lesson should be reviewed by two people.
+Ideally, reviewers will provide a diversity of perspectives, representing e.g.
+different levels of expertise in the lesson topic and
+different local/domain communities.
+This helps to ensure that the lesson is accessible
+and guards against [expertise awareness gap](https://carpentries.github.io/instructor-training/04-expertise.html#mind-the-gap).
+
+So far, reviewers have been identified through a combination of:
+
+* responses to the Lab review volunteer form
+* the Editor's professional network
+* exploring the lists of 'watchers' on the repository of the lesson under review,
+  membership of any relevant Slack channels, etc
+
+Invitations to review have been made privately, by email/Slack message,
+followed by public invitation and confirmation on the review thread in this repository.
+(See examples of these posts in [the _Good Enough Practices_ lesson review thread](https://github.com/carpentries-lab/reviews/issues/24#issuecomment-1451796473).)
+
+Potential reviewers frequently ask what the time frame is for review.
+We do not have a strict policy,
+but hope to receive reviews within six weeks of confirmation.
+However, we would rather receive good reviews from reviewers who are a good fit for the lesson.
+So the Editor should encourage would-be reviewers to
+estimate a timeframe that would work for them
+and try to communicate that to the authors.
+
+#### Support for Editors from The Carpentries
+The [Curriculum Team](mailto:curriculum@carpentries.org) can provide a list of
+people who have volunteered to review lessons in the Lab,
+and can contact people on your behalf
+e.g. where you have identfied a potential reviewer from the community,
+whose details are stored in AMY.
+
+### Supporting the Review Process
+After assigning reviewers, the Editor should continue to support the process by:
+
+- answering questions from authors and reviewers
+- reaching out to reviewers/authors after a long period without response
+- summarising reviews when they come in,
+  e.g. to collate and re-state the requested changes for authors to respond to
+- providing guidance on which changes are within scope for a reviewer to request,
+  based on [the _Review Scope_ section of the Reviewer Guide](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#review-scope)
+  in combination with the Editor's own judgement.
+
+### Accepting lessons
+After authors have responded to reviewer's comments and requested changes,
+the Editor should ask the reviewers to evaluate the lesson again
+and respond (at least) once more, either
+to confirm that they are happy for the lesson to be accepted, or
+to make further comments/request additional changes.
+
+### After acceptance
 1. If the author(s) have indicated that they would like to submit the lesson to JOSE,
   assist them with getting started on that process and ensure that the JOSE editors
   are aware that the lesson has already been accepted to The Carpentries Lab.
@@ -109,8 +168,6 @@ these steps need to be taken:
 
 For a collection/curriculum composed of multiple lessons:
 
-1. Ensure that the lesson repositories are named consistently, 
-   to signal their relationship more clearly 
+1. Ensure that the lesson repositories are named consistently,
+   to signal their relationship more clearly
    and so that they appear together in any alphabetical listing of repositories in the Lab.
-
-
