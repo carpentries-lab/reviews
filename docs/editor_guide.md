@@ -142,13 +142,32 @@ whose details are stored in AMY.
 ### Supporting the Review Process
 After assigning reviewers, the Editor should continue to support the process by:
 
-- answering questions from authors and reviewers
+- answering questions from authors and reviewers in the review thread
 - reaching out to reviewers/authors after a long period without response
 - summarising reviews when they come in,
   e.g. to collate and re-state the requested changes for authors to respond to
 - providing guidance on which changes are within scope for a reviewer to request,
   based on [the _Review Scope_ section of the Reviewer Guide](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md#review-scope)
   in combination with the Editor's own judgement.
+
+#### Public vs private communication
+
+Apart from the initial approach to potential reviewers,
+we prefer for all communication about the lesson review to take place
+in the same issue thread.
+Reviewers are encouraged to contribute directly in issues and pull requests to
+the repository of the lesson under review, but are asked to link to these
+"side conversations" from the main review thread.
+
+Nevertheless, the editor may feel that it is sometimes necessary to communicate
+in private e.g. to reach out to unresponsive authors or reviewers,
+or to help resolve conflicts.
+If you do communicate with reviewers and/or authors privately, please
+ensure that anything pertinent to the review of the lesson
+(e.g. feedback given or changes requested)
+is summarised in the review thread.
+If you are in any doubt about whether it is appropriate to contact authors/reviewers
+privately during the review, please reach out to the [Curriculum Team](mailto:curriculum@carpentries.org).
 
 ### Accepting lessons
 After authors have responded to reviewer's comments and requested changes,
