@@ -87,7 +87,7 @@ they should remove the label for the preceding stage of the review process.
 ### Initial submission
 Once the editor confirmed that the lesson was suitable to be sent out to review,
 these steps need to be taken:
-1. add review badge to the README for the repository using the code below and replacing `<issue number>` with the issue associated with the submission:
+1. ask the authors to add a review badge to the README for their lesson repository using the code below and replacing `<issue number>` with the issue associated with the submission:
    ```
    [![The Carpentries Lab Review Status](http://badges.carpentries-lab.org/<issue number>_status.svg)](https://github.com/carpentries-lab/reviews/issues/<issue number>)
    ```
