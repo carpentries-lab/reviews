@@ -96,7 +96,7 @@ these steps need to be taken:
 ### Performing editorial checks
 Using the checklist above, perform the basic editorial checks to ensure that the
 lesson is ready for review.
-Share the results of the checklist with the authors in the thread,
+Share the results of the checklist with the authors in the review thread,
 highlighting any points that need to be addressed before the lesson can be reviewed.
 
 When the editorial checks have been satisfied,
