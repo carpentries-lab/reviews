@@ -129,6 +129,9 @@ So the Editor should encourage would-be reviewers to
 estimate a timeframe that would work for them
 and try to communicate that to the authors.
 
+When looking for reviewers, please keep in mind our
+[Conflict of Interest Policy](https://github.com/carpentries-lab/reviews/blob/main/docs/coi_policy.md)
+
 #### Support for Editors from The Carpentries
 The [Curriculum Team](mailto:curriculum@carpentries.org) can provide a list of
 people who have volunteered to review lessons in the Lab,
