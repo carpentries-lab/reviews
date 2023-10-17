@@ -125,8 +125,14 @@ If you are unsure of where your submission fits into one of the example categori
 
 ### Editors
 
-- [Dr Toby Hodges][toby], [The Carpentries][carpentries]
-- [Dr Michael Culshaw-Maurer][michael], [The Carpentries][carpentries]/[CyVerse][cyverse]
+[Toby Hodges][toby], Director of Curriculum at [The Carpentries][carpentries], is Editor of The Carpentries Lab.
+
+#### Guest Editors
+
+We are very grateful to the following people for acting as Guest Editor on lesson reviews:
+
+- [Sarah M Brown](https://github.com/brownsarahm)
+
 
 ### Reviewers
 
