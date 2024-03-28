@@ -175,7 +175,7 @@ the Editor should ask the reviewers to evaluate the lesson again
 and respond (at least) once more, either
 to confirm that they are happy for the lesson to be accepted, or
 to make further comments/request additional changes.
-(See the _Good Enough Practices_ an example in lesson review thread](https://github.com/carpentries-lab/reviews/issues/24#issuecomment-1588926986).)
+([See the _Good Enough Practices_ review thread for an example](https://github.com/carpentries-lab/reviews/issues/24#issuecomment-1588926986).)
 
 ### After acceptance
 1. If the author(s) have indicated that they would like to submit the lesson to JOSE,
