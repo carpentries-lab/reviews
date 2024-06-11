@@ -6,8 +6,6 @@ used in Carpentries workshops.
 
 Everyone participating in The Carpentries Lab agrees to follow The Carpentries [Code of Conduct][coc].
 
-**We are currently piloting our lesson review process, and are commiting only to review lessons by invitation. If you have not been invited to submit your lesson to The Carpentries Lab, you may still open an issue to request a review but should expect some delay in the processing of your submission.**
-
 
 ## Why The Carpentries Lab?
 
@@ -75,7 +73,7 @@ A lesson is particularly well-suited to The Carpentries Lab if:
 **We are currently piloting our lesson review process, and are commiting only to review lessons by invitation. If you have not been invited to submit your lesson to The Carpentries Lab, you may still open an issue to request a review but should expect some delay in the processing of your submission.**
 
 * To request a review, [open an issue in this repository][new-issue] and respond to the prompts in the _Review submission_  issue template
-* The editor will [assess the submission for fit and overall quality][editor-guide], and assign reviewers.
+* An editor will [assess the submission for fit and overall quality][editor-guide], and assign reviewers.
 * The reviewers will use [The Carpentries checklists and guidelines][reviewer-guide] to provide feedback on the lesson.
 * Once accepted, the lesson will be transfered to [The Carpentries Lab GitHub organization][lab-gh-org],
   updated to use The Carpentries Lab theme,
@@ -125,7 +123,10 @@ If you are unsure of where your submission fits into one of the example categori
 
 ### Editors
 
-[Toby Hodges][toby], Director of Curriculum at [The Carpentries][carpentries], is Editor of The Carpentries Lab.
+* [Federica Gazzelloni][federica]
+* [Toby Hodges][toby]
+* [Dimitrios Theodorakis][dimitrios]
+* [Sébastien Vigneau][sebastien]
 
 #### Guest Editors
 
@@ -138,10 +139,15 @@ We are very grateful to the following people for acting as Guest Editor on lesso
 
 We are very grateful to the following individuals for reviewing lessons:
 
+- [John Blischak](https://github.com/jdblischak)
+- [Florencia D'Andrea](https://github.com/flor14)
+- [Hadrien Gourlé]((https://github.com/HadrienG))
+- [Ruth Nanjala](https://github.com/nanjalaruth)
 - [Lex Nederbragt](https://github.com/lexnederbragt)
 - [Paula Nieto Garcia](https://github.com/PaulaNietoG)
 - [Fotis Psomopoulos](https://github.com/fpsom)
 - [Heidi Seibold](https://github.com/HeidiSeibold)
+- [Robert (Bob) Turner](https://github.com/bobturneruk)
 
 
 
@@ -152,8 +158,10 @@ We are very grateful to the following individuals for reviewing lessons:
 [cdh]: https://cdh.carpentries.org/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cyverse]: https://www.cyverse.org/
+[dimitrios]: https://www.astropython.com/
 [editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md
 [example-submissions]: https://github.com/carpentries-lab/reviews/blob/main/docs/submission_examples.md
+[federica]: https://federicagazzelloni.netlify.app
 [jose]: https://jose.theoj.org/
 [jose-about]: https://jose.theoj.org/about
 [jose-review-criteria]: https://openjournals.readthedocs.io/en/jose/review_criteria.html#specific-requirements-for-learning-modules
@@ -164,8 +172,8 @@ We are very grateful to the following individuals for reviewing lessons:
 [lab-home]: https://carpentries-lab.org/
 [lesson-programs]: https://carpentries.org/workshops-curricula/
 [lesson-template]: https://github.com/carpentries/styles
-[michael]: https://github.com/MCMaurer
 [new-issue]: https://github.com/carpentries-lab/reviews/issues/new?assignees=&labels=new-submission&template=submission.md&title=%5BREV%5D%3A+
 [reviewer-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md
 [ropensci]: https://ropensci.org/
+[sebastien]: https://github.com/svigneau
 [toby]: https://github.com/tobyhodges
