@@ -141,7 +141,7 @@ We are very grateful to the following individuals for reviewing lessons:
 
 - [John Blischak](https://github.com/jdblischak)
 - [Florencia D'Andrea](https://github.com/flor14)
-- [Hadrien Gourlé]((https://github.com/HadrienG))
+- [Hadrien Gourlé](https://github.com/HadrienG)
 - [Ruth Nanjala](https://github.com/nanjalaruth)
 - [Lex Nederbragt](https://github.com/lexnederbragt)
 - [Paula Nieto Garcia](https://github.com/PaulaNietoG)
