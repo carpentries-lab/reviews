@@ -161,7 +161,7 @@ We are very grateful to the following individuals for reviewing lessons:
 [dimitrios]: https://www.astropython.com/
 [editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md
 [example-submissions]: https://github.com/carpentries-lab/reviews/blob/main/docs/submission_examples.md
-[federica]: https://federicagazzelloni.netlify.app
+[federica]: https://federicagazzelloni.com/
 [jose]: https://jose.theoj.org/
 [jose-about]: https://jose.theoj.org/about
 [jose-review-criteria]: https://openjournals.readthedocs.io/en/jose/review_criteria.html#specific-requirements-for-learning-modules
