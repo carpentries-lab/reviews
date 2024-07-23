@@ -93,7 +93,8 @@ we recommend that the `paper.md` and `paper.bib` files be added to the repositor
 (see [the Metagenomics curriculum][metagenomics-overview] in the Lab as an example).
 
 We recommend that authors do not finalise the article to be published about their lesson(s) 
-until after review has been completed in The Carpentries Lab.
+until after review has been completed in The Carpentries Lab:
+the review process can take some time and result in changes to the lesson that need to be described or reflected in the accompanying article.
 When the paper is ready, it should be [submitted to JOSE as normal][jose-submission]
 as a _learning module_.
 The JOSE submission form includes a text field for a message to the editors:
