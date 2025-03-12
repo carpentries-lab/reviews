@@ -94,6 +94,7 @@ and [Writing Alt Text for Data Visualization][alt-text-data]
 - [ ] The lesson does not make use of superfluous data sets, e.g. increasing cognitive load for learners by introducing a new data set instead of reusing another that is already present in the lesson.
 - [ ] The example tasks and narrative of the lesson are appropriate and realistic.
 - [ ] The solutions to all exercises are accurate and sufficiently explained.
+- [ ] Any discussion exercises without solutions are accompanied by sufficient information/guidance that Instructors could reasonably be expected to judge whether the intended goals of the discussion have been reached.
 - [ ] The lesson includes exercises in a variety of formats.
 - [ ] Exercise tasks and formats are appropriate for the expected experience level of the target audience.
 - [ ] All lesson and episode objectives are assessed by exercises or another opportunity for formative assessment.
