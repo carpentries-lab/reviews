@@ -19,7 +19,7 @@ You can use the [Editor checklist template](./templates/editor_checks_template.m
 ### Content
 
 - [ ] The lesson teaches data and/or computational skills that could promote efficient, open, and reproducible research.
-- [ ] All exercises have solutions.
+- [ ] All non-discussion exercises have solutions. (See note 1, below.)
 - [ ] Opportunities for formative assessments are included and distributed throughout the lesson sufficiently to track learner progress. (We aim for at least one formative assessment every 10-15 minutes.)
 - [ ] Any data sets used in the lesson are published under a permissive open license i.e. CC0 or equivalent.
 
@@ -51,6 +51,9 @@ The lesson includes:
 
 [glosario]: https://carpentries.github.io/glosario/
 [wave]: https://wave.webaim.org/
+
+### Notes
+1. Ideally we would like to see solutions for every challenge, since they provide helpful guidance for Instructors and learners. However, in cases where no single solution is really feasible, guidance on the kinds of things that learners should consider/look out for/do when completing the exercise is sufficient. (See the solution provided with [the main exercise in the DC Ecology Spreadsheets lesson](https://datacarpentry.github.io/spreadsheet-ecology-lesson/01-format-data.html#exercise) for an example.) Solutions are not required for exercises with the `discussion` class (rendered with a speech bubble icon at the top-left of the exercise box).
 
 
 ## Issue Labels
