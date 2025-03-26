@@ -15,7 +15,7 @@
 ### Content
 
 - The lesson content:
-    - [ ] conforms to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+    - [ ] conforms to [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
     - [ ] meets the objectives defined by the authors.
     - [ ] is appropriate for the target audience identified for the lesson.
     - [ ] is accurate.

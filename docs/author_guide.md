@@ -68,7 +68,7 @@ when the author first
      the Editor will tag potential reviewers after editorial checks have been completed.**
      **Please read our [Conflict of Interest Policy][8] before suggesting reviewers.**
 
-[1]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[1]: https://docs.carpentries.org/policies/coc/
 [2]: https://creativecommons.org/licenses/by/4.0/
 [3]: https://creativecommons.org/publicdomain/zero/1.0/
 [4]: https://github.com/carpentries/styles/
