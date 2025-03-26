@@ -156,7 +156,7 @@ We are very grateful to the following individuals for reviewing lessons:
 [cc0-human]: https://creativecommons.org/publicdomain/zero/1.0/
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[coc]: https://docs.carpentries.org/policies/coc/
 [cyverse]: https://www.cyverse.org/
 [dimitrios]: https://www.astropython.com/
 [editor-guide]: https://github.com/carpentries-lab/reviews/blob/main/docs/editor_guide.md

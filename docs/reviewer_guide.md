@@ -112,7 +112,7 @@ and [Writing Alt Text for Data Visualization][alt-text-data]
 - [ ] No key terms are missing from the lesson glossary or are not linked to definitions in an external glossary e.g. [Glosario][glosario].
 
 [alt-text-data]: https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81
-[code-of-conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[code-of-conduct]: https://docs.carpentries.org/policies/coc/
 [deque-alt-text]: https://www.deque.com/blog/great-alt-text-introduction/
 [glosario]: https://carpentries.github.io/glosario/
 [wave]: https://wave.webaim.org/

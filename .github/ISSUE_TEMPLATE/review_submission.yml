@@ -75,7 +75,7 @@ body:
       options:
         - label: is the original work of the author(s), or that any content derived from another source is reused with permission and appropriate attribution
           required: true
-        - label: aligns with [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+        - label: aligns with [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/)
           required: true
         - label: is published under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
           required: true
