@@ -80,7 +80,7 @@ when the author first
 ## JOSE Submission
 
 When submitting their lesson(s) to The Carpentries Lab, 
-authors may indicate that they wish to also the lesson(s) for publication in JOSE
+authors may indicate that they wish to also submit the lesson(s) for publication in JOSE
 (see question 9 in the checklist above).
 If they choose this option, the authors should submit their lesson(s) to JOSE
 _after it/they have been accepted to The Carpentries Lab_.
@@ -103,7 +103,7 @@ reviewed already in The Carpentries Lab.
 If you are doing this, please make sure that you include a link to the review thread for your lesson(s)!
 
 [The _Joint Submission with JOSE_ section of the repository README][6]
-has more datails about the joint review process.
+has more details about the joint review process.
 
 
 [jose-submission]: https://jose.theoj.org/papers/new
