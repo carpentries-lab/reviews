@@ -2,9 +2,10 @@
 
 **The Carpentries Lab was closed in September 2026**, due to [reductions in the capacity of The Carpentries Core Team](https://carpentries.org/blog/2026/08/changes-to-core-team-and-programmatic-activities-at-the-carpentries/).
 
-## If/when the capacity of The Carpentries team increases, will the Lab reopen?
+* **If/when the capacity of The Carpentries team increases, will the Lab reopen?**
+
 Possibly. 
-Open peer review is a good way to guarantee the quality and transferability of lessons produced by the community, and to recognise the contributions of the people developing those lessons.
+Open peer review is a good way to guarantee the quality and usability of lessons produced by the community, and to recognise the contributions of the people developing those lessons.
 The Carpentries' model for supporting collaborative, community-driven lesson development would ideally include the elements of peer review and community recognition that were provided by the Lab.
 However, our experience during the time that the Lab was first open suggested that the system and processes we had in place -- and/or the capacity of the Curriculum Team even before it was reduced -- were not sufficient to allow for timely review of lessons.
 
@@ -23,7 +24,6 @@ We are very grateful to the following people for acting as Editors on lesson rev
 #### Guest Editors
 
 - [Sarah M Brown](https://github.com/brownsarahm)
-
 
 ### Reviewers
 
