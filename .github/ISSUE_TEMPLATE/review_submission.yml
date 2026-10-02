@@ -1,5 +1,5 @@
-name: Lab Review Submission
-description: Submit a Carpentries Incubator lesson for Carpentries Lab peer review
+name: Review Submission (REVIEWS ARE CURRENTLY CLOSED)
+description: The Carpentries Lab is not accepting new review submissions
 title: "[Review]: "
 labels: ["review"]
 assignees:
@@ -8,8 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for your interest in submitting your lesson for review in The Carpentries Lab!
-        Please respond to the prompts below to complete your submission.
+        Thank you for your interest in submitting your lesson for review in The Carpentries Lab.
+        The Carpentries Lab is not accepting new review submissions.
   - type: input
     id: title
     attributes:
